@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SimpleNetwordLibrary"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SimpleNetwordLibrary">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/SimpleNetwordLibrary" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimpleNetwordLibrary"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SimpleNetwordLibrary/fast">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/SimpleNetwordLibrary" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimpleNetwordLibrary/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BoundedBlockingQueue">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/BoundedBlockingQueue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 BoundedBlockingQueue"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BoundedBlockingQueue/fast">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/BoundedBlockingQueue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 BoundedBlockingQueue/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testThread">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/testThread" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 testThread"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testThread/fast">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/testThread" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 testThread/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testCondition">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/testCondition" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 testCondition"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testCondition/fast">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/testCondition" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 testCondition/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testTimestamp">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/testTimestamp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 testTimestamp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testTimestamp/fast">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/testTimestamp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 testTimestamp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BlockingQueue">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/BlockingQueue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 BlockingQueue"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BlockingQueue/fast">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/BlockingQueue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 BlockingQueue/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LogTest2">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/LogTest2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogTest2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LogTest2/fast">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/LogTest2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogTest2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ThreadPoolTest">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/ThreadPoolTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 ThreadPoolTest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ThreadPoolTest/fast">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/ThreadPoolTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 ThreadPoolTest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LogTest1">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/LogTest1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogTest1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LogTest1/fast">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/LogTest1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogTest1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LogFileTest2">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/LogFileTest2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogFileTest2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LogFileTest2/fast">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/LogFileTest2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogFileTest2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LogFileTest">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/LogFileTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogFileTest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LogFileTest/fast">
+				<Option output="/home/c++code/NetwordLibrary/cmake-build-debug/LogFileTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/c++code/NetwordLibrary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogFileTest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/c++code/NetwordLibrary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/BlockingQueue.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="BlockingQueue"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/BlockingQueueTest.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="BlockingQueue"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/BoundedBlockingQueue.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="BoundedBlockingQueue"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/BoundedBlockingQueueTest.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="BoundedBlockingQueue"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/Condition.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="BoundedBlockingQueue"/>
+			<Option target="testCondition"/>
+			<Option target="BlockingQueue"/>
+			<Option target="ThreadPoolTest"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/Condition.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="BoundedBlockingQueue"/>
+			<Option target="testCondition"/>
+			<Option target="BlockingQueue"/>
+			<Option target="ThreadPoolTest"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/CountDownLatch.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="BoundedBlockingQueue"/>
+			<Option target="testCondition"/>
+			<Option target="BlockingQueue"/>
+			<Option target="ThreadPoolTest"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/CountDownLatch.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="BoundedBlockingQueue"/>
+			<Option target="testCondition"/>
+			<Option target="BlockingQueue"/>
+			<Option target="ThreadPoolTest"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/CurrentThread.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="BoundedBlockingQueue"/>
+			<Option target="testThread"/>
+			<Option target="testCondition"/>
+			<Option target="BlockingQueue"/>
+			<Option target="LogTest2"/>
+			<Option target="ThreadPoolTest"/>
+			<Option target="LogTest1"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/FileUtil.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/FileUtil.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/LogFile.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/LogFile.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/LogFileTest.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/LogFileTest2.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="testTimestamp"/>
+			<Option target="BlockingQueue"/>
+			<Option target="LogTest2"/>
+			<Option target="LogFileTest2"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/LogStream.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="LogTest2"/>
+			<Option target="LogTest1"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/LogStream.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="LogTest2"/>
+			<Option target="LogTest1"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/LogTest1.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="LogTest1"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/LogTest2.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="LogTest2"/>
+			<Option target="LogTest1"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/Logger.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="LogTest2"/>
+			<Option target="LogTest1"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/Logger.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="LogTest2"/>
+			<Option target="LogTest1"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/Mutex.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="BoundedBlockingQueue"/>
+			<Option target="testCondition"/>
+			<Option target="BlockingQueue"/>
+			<Option target="ThreadPoolTest"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/StringPiece.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="LogTest2"/>
+			<Option target="LogTest1"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/Thread.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="BoundedBlockingQueue"/>
+			<Option target="testThread"/>
+			<Option target="testCondition"/>
+			<Option target="BlockingQueue"/>
+			<Option target="LogTest2"/>
+			<Option target="ThreadPoolTest"/>
+			<Option target="LogTest1"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/Thread.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="BoundedBlockingQueue"/>
+			<Option target="testThread"/>
+			<Option target="testCondition"/>
+			<Option target="BlockingQueue"/>
+			<Option target="LogTest2"/>
+			<Option target="ThreadPoolTest"/>
+			<Option target="LogTest1"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/ThreadPool.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="ThreadPoolTest"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/ThreadPool.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="ThreadPoolTest"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/ThreadPoolTest.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="ThreadPoolTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/TimeStamp.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="testTimestamp"/>
+			<Option target="LogTest2"/>
+			<Option target="LogTest1"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/TimeStamp.h">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="testTimestamp"/>
+			<Option target="LogTest2"/>
+			<Option target="LogTest1"/>
+			<Option target="LogFileTest2"/>
+			<Option target="LogFileTest"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/Types.h">
+			<Option target="SimpleNetwordLibrary"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/testCondition.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="testCondition"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/testThread.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="testThread"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Base/testTimestamp.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+			<Option target="testTimestamp"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Net/Endian.h">
+			<Option target="SimpleNetwordLibrary"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Net/InetAddress.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Net/InetAddress.h">
+			<Option target="SimpleNetwordLibrary"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Net/Socket.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Net/Socket.h">
+			<Option target="SimpleNetwordLibrary"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Net/Socketopts.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/Net/Socketopts.h">
+			<Option target="SimpleNetwordLibrary"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/main.cpp">
+			<Option target="SimpleNetwordLibrary"/>
+		</Unit>
+		<Unit filename="/home/c++code/NetwordLibrary/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

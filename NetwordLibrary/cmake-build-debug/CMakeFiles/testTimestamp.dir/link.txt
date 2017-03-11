@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g   CMakeFiles/testTimestamp.dir/Base/TimeStamp.cpp.o CMakeFiles/testTimestamp.dir/Base/testTimestamp.cpp.o CMakeFiles/testTimestamp.dir/Base/LogFileTest2.cpp.o  -o testTimestamp 

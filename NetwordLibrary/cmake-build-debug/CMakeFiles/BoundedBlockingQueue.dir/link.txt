@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g   CMakeFiles/BoundedBlockingQueue.dir/Base/Thread.cpp.o CMakeFiles/BoundedBlockingQueue.dir/Base/Condition.cpp.o CMakeFiles/BoundedBlockingQueue.dir/Base/CountDownLatch.cpp.o CMakeFiles/BoundedBlockingQueue.dir/Base/BoundedBlockingQueueTest.cpp.o  -o BoundedBlockingQueue -lpthread 
