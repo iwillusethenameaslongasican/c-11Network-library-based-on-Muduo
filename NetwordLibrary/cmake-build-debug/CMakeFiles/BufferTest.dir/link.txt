@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g   CMakeFiles/BufferTest.dir/Net/Socketopts.cpp.o CMakeFiles/BufferTest.dir/Net/Buffer.cpp.o CMakeFiles/BufferTest.dir/Net/BufferTest.cpp.o  -o BufferTest -lpthread 
